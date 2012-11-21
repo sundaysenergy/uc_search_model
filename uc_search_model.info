@@ -1,0 +1,6 @@
+; $Id$
+name = Ubercart Search Model Number
+description = This module will include the Ubercart Model Number to the Drupal search indexing.
+core = 6.x
+package = Other
+dependencies[] = search
